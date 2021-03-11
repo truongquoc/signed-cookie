@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-cloudfront-sign": "^2.2.0",
+    "aws-iot-device-sdk": "^2.2.6",
     "aws-sdk": "^2.365.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.3"

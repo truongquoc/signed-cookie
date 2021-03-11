@@ -5,6 +5,14 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+pk*
+public.*
+private.*
+cert.*
+ca.*
+Amazon*
+aws*
+
 # Runtime data
 pids
 *.pid
